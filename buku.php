@@ -12,7 +12,7 @@
 	?>
 	<div class="col-md-3">
 		<div class="card">
-			<img src="foto/3.jpg" class="card-img-top">
+			<img src="foto/4.jpg" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title"><?=$dt_buku['nama_buku']?></h5>
 				<p class="card-text"><?=substr($dt_buku['pengarang'], 0,20)?></p
